@@ -29,10 +29,10 @@ During this internship, I completed real-world projects involving:
 
 | Task | Description | Repository |
 |------|-------------|------------|
-| Task 1 | Data Cleaning & Preprocessing | https://github.com/Kush-arora12/ApexPlanet-Data-Wrangling |
-| Task 2 | Exploratory Data Analysis | https://github.com/Kush-arora12/Task-2-EDA-Business-Intelligence |
-| Task 3 | Dashboard & Data Visualization | https://github.com/Kush-arora12/ApexPlanet-Task-3-Deep-Dive-Analysis-Dashboard |
-| Task 4 | Final Presentation & Business Insights | https://github.com/Kush-arora12/Sales-Performance-Analysis-Business-Insights/tree/main |
+| Task 1 | Data Cleaning & Preprocessing | [View Repository](https://github.com/Kush-arora12/ApexPlanet-Data-Wrangling) |
+| Task 2 | Exploratory Data Analysis (EDA) | [View Repository](https://github.com/Kush-arora12/Task-2-EDA-Business-Intelligence) |
+| Task 3 | Dashboard & Data Visualization | [View Repository](https://github.com/Kush-arora12/ApexPlanet-Task-3-Deep-Dive-Analysis-Dashboard) |
+| Task 4 | Sales Performance Analysis & Business Insights | [View Repository](https://github.com/Kush-arora12/Sales-Performance-Analysis-Business-Insights) |
 
 ---
 
@@ -53,26 +53,19 @@ During this internship, I completed real-world projects involving:
 
 ## 🎯 Key Learnings
 
-- Clean and preprocess real-world datasets
-- Perform Exploratory Data Analysis
-- Build interactive dashboards
-- Generate business insights
-- Present findings professionally
-- Maintain project repositories using GitHub
+- Clean and preprocess real-world datasets.
+- Perform Exploratory Data Analysis (EDA) to uncover meaningful insights.
+- Build interactive dashboards for effective data visualization.
+- Present business findings through reports and presentations.
+- Organize and maintain projects using Git and GitHub.
+- Develop a professional portfolio showcasing end-to-end data analytics projects.
 
 ---
 
 ## 📄 Final Presentation
 
-The final internship presentation is available in the **Presentation** folder.
+The final internship presentation and supporting documents are available in the **Presentation** folder of this repository.
 
 ---
 
-## 📫 Connect With Me
-
-- **GitHub:** https://github.com/Kush-arora12
-- **LinkedIn:** *(Add your LinkedIn profile link here)*
-
----
-
-⭐ Thank you for visiting my internship portfolio!
+⭐ **Thank you for visiting my Data Analytics Internship Portfolio!**
