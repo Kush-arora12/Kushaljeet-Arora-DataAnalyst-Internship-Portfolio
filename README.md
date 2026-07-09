@@ -29,10 +29,10 @@ During this internship, I completed real-world projects involving:
 
 | Task | Description | Repository |
 |------|-------------|------------|
-| Task 1 | Data Cleaning & Preprocessing | 🔗 Add Link |
-| Task 2 | Exploratory Data Analysis | 🔗 Add Link |
-| Task 3 | Dashboard & Data Visualization | 🔗 Add Link |
-| Task 4 | Final Presentation & Business Insights | 🔗 Add Link |
+| Task 1 | Data Cleaning & Preprocessing | https://github.com/Kush-arora12/ApexPlanet-Data-Wrangling |
+| Task 2 | Exploratory Data Analysis | https://github.com/Kush-arora12/Task-2-EDA-Business-Intelligence |
+| Task 3 | Dashboard & Data Visualization | https://github.com/Kush-arora12/ApexPlanet-Task-3-Deep-Dive-Analysis-Dashboard |
+| Task 4 | Final Presentation & Business Insights | https://github.com/Kush-arora12/Sales-Performance-Analysis-Business-Insights/tree/main |
 
 ---
 
